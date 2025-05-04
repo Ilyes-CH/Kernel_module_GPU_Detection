@@ -1,0 +1,77 @@
+                GNU GENERAL PUBLIC LICENSE
+                   Version 2, June 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+ The purpose of this License is to make a manual, reference
+ material, or software program—free in the sense of freedom, not
+ price—available to the public, and ensure that it remains free.
+ We, the authors of this License, have invested substantial effort
+ in developing this software, and we hope that it will be useful to
+ others. In return, we want to make sure that everyone who receives
+ a copy of this software can use it, modify it, and distribute it,
+ under the terms of this License.
+
+ To protect your rights, we need to make restrictions that ensure you
+ have the freedom to share and change the software. We, therefore,
+ have to forbid you to add restrictions on these rights. For example,
+ you must not impose a license that restricts others from modifying
+ the software or limit its use for any purpose. These are the
+ requirements for distributing copies of the software and for
+ modifying it.
+
+     0. Definitions.
+
+     "This License" refers to version 2 of the GNU General Public
+     License.
+
+     "Copyright" also means copyright-like laws that apply to
+     other kinds of works, such as semiconductor masks.
+
+     "The Program" refers to any copyrightable work licensed under
+     this License. Each licensee is addressed as "you."
+
+     "Modify" means to alter the Program or any part of it, thus
+     forming a work based on the Program.
+
+     "You may distribute the Program under the terms of the GPL,
+     and you may modify the Program, provided that you keep the
+     above copyright and license notices, and that you make your
+     modifications under the same terms as the original GPL."
+
+ 1. You may copy and distribute verbatim copies of the Program's
+    source code as you receive it, in any medium, provided that you
+    keep intact the copyright notices and this license.
+
+ 2. You may modify your copy or copies of the Program or any part
+    of it, thus forming a work based on the Program, and copy and
+    distribute such modifications or work under the terms of Section
+    1 above, provided that you meet the requirements of this
+    license.
+
+ 3. You may copy and distribute the Program (or a work based on it)
+    under the terms of this License, provided that you include a
+    copy of this License along with the Program (or a work based on
+    it), and you identify the modifications you made (if any) to the
+    Program, in a manner that makes it clear that you have made
+    changes.
+
+ 4. You may not impose any further restrictions on the rights granted
+    by this License.
+
+ 5. The Program is distributed with the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU General Public License for more details.
+
+ 6. You should have received a copy of the GNU General Public License
+    along with the Program. If not, see
+    <https://www.gnu.org/licenses/>.
+
+
