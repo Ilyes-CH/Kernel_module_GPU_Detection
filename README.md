@@ -48,7 +48,7 @@ This will create a .ko (kernel object) file in the directory.
 To load the kernel module into the system, use the following command:
 
 ```bash
-sudo insmod gpu_detect.ko
+sudo insmod gpu_card_check.ko
 
 ```
 
@@ -59,7 +59,7 @@ This will insert the module into the kernel and begin the detection process. You
 To remove the kernel module, use the following command:
 
 ```bash
-sudo rmmod gpu_detect
+sudo rmmod gpu_card_check
 
 ```
 
@@ -91,6 +91,12 @@ After running the module, the kernel log might show:
 - If your Intel Arc GPU is not being recognized, update the switch statement with the correct device IDs as per your GPU model.
 
 - You can view detailed logs using the dmesg command to troubleshoot any issues related to the module.
+
+### Disclaimer
+
+This small project, is for educational purposes. This is not production ready or to be fully
+integrated in the linux kernel. This is a small attempt to lean about kernel development in linux to sort of give back to the community.
+Thank you!
 
 ### License
 
